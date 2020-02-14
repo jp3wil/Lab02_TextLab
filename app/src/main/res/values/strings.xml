@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab02_TextLab</string>
+    <string name="inputCheckerDefault">Enter your name below:</string>
+    <string name="editinput">Your name...</string>
+    <string name="inputChecker">Your input was: %s</string>
+    <string name="buttonVal">Enter</string>
+    <string name="stringListDefault">Click the button below to start</string>
+    <string-array name="stringListAlterable">
+        <item>Hello there!</item>
+        <item>I personally enjoy the following:</item>
+        <item>Video games</item>
+        <item>Anime (esp. JoJo\'s Bizarre Adventure, Attack on Titan)</item>
+        <item>Programming</item>
+        <item>Click again to start over</item>
+    </string-array>
+</resources>
