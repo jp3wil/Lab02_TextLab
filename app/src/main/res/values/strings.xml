@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lab02_TextLab</string>
     <string name="inputCheckerDefault">Enter your name below:</string>
-    <string name="editinput">Your name...</string>
+    <string name="editinput">Enter your name</string>
     <string name="inputChecker">Your input was: %s</string>
     <string name="buttonVal">Enter</string>
     <string name="stringListDefault">Click the button below to start</string>
